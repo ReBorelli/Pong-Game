@@ -3,10 +3,11 @@
 Simple Pong Game - Python 3.8 (64-bit)
 
 Programa realizado para treinar conceitos básicos de Python.
-Objetivo: Educacional
 
-Fonte: freeCodeCamp.org
+**Objetivo:** Educacional
 
-Autor: Christian Thompson
+**Fonte:** [freeCodeCamp.org] (https://www.freecodecamp.org/news/).
 
-Modificações: Renato Borelli
+**Autor:** [Christian Thompson] (https://www.youtube.com/watch?v=C6jJg9Zan7w).
+
+**Modificações:** Renato Borelli
