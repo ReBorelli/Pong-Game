@@ -6,8 +6,8 @@ Programa realizado para treinar conceitos básicos de Python.
 
 **Objetivo:** Educacional
 
-**Fonte:** [freeCodeCamp.org] (https://www.freecodecamp.org/news/).
+**Fonte:** [freeCodeCamp.org](https://www.freecodecamp.org).
 
-**Autor:** [Christian Thompson] (https://www.youtube.com/watch?v=C6jJg9Zan7w).
+**Autor:** [Christian Thompson](https://www.youtube.com/watch?v=C6jJg9Zan7w).
 
 **Modificações:** Renato Borelli
